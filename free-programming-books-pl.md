@@ -26,8 +26,7 @@
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS)
 * [Pro Git](http://git-scm.com/book/pl/)
 * [SVN](https://pl.wikibooks.org/wiki/Subversion)
-* [System kontroli wersji Subversion](http://svnbook.opensys.pl)
-* [W obronie wolności](http://stallman.helion.pl)
+* [System kontroli wersji Subversion](http://www.gajdaw.pl/varia/subversion-system-kontroli-wersji-tutorial/)
 
 
 ### Android
@@ -67,6 +66,7 @@
 
 ### HTML
 
+* [KURS HTML](http://www.kurshtml.edu.pl)
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
 
 
@@ -107,7 +107,6 @@
 ### Python
 
 * [Biblioteka Pythona](http://www.python.rk.edu.pl)
-* [Ukąś Pythona](http://python.edu.pl/byteofpython/index.html)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 
