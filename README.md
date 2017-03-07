@@ -670,3 +670,11 @@
 
 * [Visual Prolog 7初学指南](http://wiki.visual-prolog.com/index.php?title=A_Beginners_Guide_to_Visual_Prolog_in_Chinese)
 * [Visual Prolog 7边练边学](http://wiki.visual-prolog.com/index.php?title=Visual_Prolog_for_Tyros_in_Chinese)
+
+
+### 公众号推荐
+* [架构师之路](http://mp.weixin.qq.com/mp/homepage?__biz=MjM5ODYxMDA5OQ==&hid=2&sn=2fa9fed2f56065e62624750e00ac6a9c#wechat_redirect)
+* [老马说编程](http://mp.weixin.qq.com/s/y3b3prB54Mj1JN2CEURyrg)
+* [码农翻身](http://mp.weixin.qq.com/s/nCx7Jb5WRXGzkpsuth6LAw)
+* [Netkiller](http://mp.weixin.qq.com/mp/homepage?__biz=MzIxMjA1ODE1MA==&hid=5&sn=af6f0c882586736de7d54871d3965c8b#wechat_redirect)
+* [嘀嗒嘀嗒](http://mp.weixin.qq.com/s/iDNGqZtTy0EuerZlqJBWJg)
