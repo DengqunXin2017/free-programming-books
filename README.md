@@ -678,3 +678,4 @@
 * [码农翻身](http://mp.weixin.qq.com/s/nCx7Jb5WRXGzkpsuth6LAw)
 * [Netkiller](http://mp.weixin.qq.com/mp/homepage?__biz=MzIxMjA1ODE1MA==&hid=5&sn=af6f0c882586736de7d54871d3965c8b#wechat_redirect)
 * [嘀嗒嘀嗒](http://mp.weixin.qq.com/s/iDNGqZtTy0EuerZlqJBWJg)
+* [SimpleMain](https://mp.weixin.qq.com/s?src=3&timestamp=1502118012&ver=1&signature=kBgfYKflxQSYzMiFxkVpsBO9y-IMvi*urFiva2S9Nfg152rbj*kgzy9lXhWCFdROWUCJF3uI2crqaEFQUMcUjDsoeUZGA1kzl22LO8e8s950OlL7BD5MjBm9*jzDc85ATiVUhH4TxBZy5pPQv5oWVfC02eFJQ-e54HqHiLIJEP8=)
